@@ -3,8 +3,11 @@
 
 ## Description
 
-### [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-### Mongodb
+```bash
+Backend:  [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Database: Mongodb
+Api doc:  Swagger
+```
 
 ## Installation
 
