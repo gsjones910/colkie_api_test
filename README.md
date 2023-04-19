@@ -3,13 +3,15 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+### [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+### Mongodb
 
 ## Installation
 
 ```bash
 $ npm install
 ```
+Create a .env file from the .env.example file and enter the relevant parameters.
 
 ## Running the app
 
