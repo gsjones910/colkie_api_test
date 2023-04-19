@@ -4,7 +4,8 @@
 ## Description
 
 ```bash
-Backend:  [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Language: TypeScript
+Backend:  Nest framework
 Database: Mongodb
 Api doc:  Swagger
 ```
